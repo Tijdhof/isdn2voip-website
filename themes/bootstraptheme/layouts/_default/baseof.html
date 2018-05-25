@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "nl" }}" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ block "title" . }}{{ with .Title }} {{ . }} | {{ end }}  {{ .Site.Title }} {{ end }}</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    {{ .Hugo.Generator }}
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+
+    <link href='{{ "dist/app.css" | absURL }}?{{ now.Unix }}' rel='stylesheet' type="text/css" />
+ 
+    <link rel="manifest" href="{{ "/manifest.webmanifest" | absURL }}">
+    {{ partial "favicon.html"}}
+    {{ if .RSSLink }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
+
+        <!-- open graph -->
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="{{ if .Params.social.title }}{{ .Params.social.title }}{{ else }}{{if .Params.meta_title }} {{.Params.meta_title}} {{ else }} {{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}{{end}}{{end}}"/>
+        <meta property="og:description" content="{{ if .Params.social.description }}{{ .Params.social.description }}{{ else }}{{if .Params.meta_description}}{{.Params.meta_description}}{{else}}{{ .Site.Params.description }}{{end}}{{ end }}"/>
+        <meta property="og:site_name" content="{{ .Site.Title }}"/>
+        <meta property="og:url" content="{{ .Permalink }}"/>
+        <meta property="og:locale" content="nl">
+        {{ if  .Params.social.image  }}
+        <meta property="og:image" content="{{ .Params.social.image | absURL }}"/>
+        <meta property="og:image:secure_url" content="{{ .Params.social.image | absURL }}"/>
+        {{ else }}
+        <meta property="og:image" content="{{ .Site.Params.og_image}}"/>
+        <meta property="og:image:secure_url" content="{{ .Site.Params.og_image }}"/>
+        {{ end }}
+        
+  </head>
+  <body class="page-">
+    {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
+    <main class="main">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+
+    <script src='{{ "dist/app.bundle.js" | absURL }}?{{ now.Unix }}'></script>
+
+  </body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "name": "hugobootstrap-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hugo": "hugo server --disableFastRender -p 1330",
+    "build": "webpack --mode development --progress --colors --watch",
+    "start": "concurrently --kill-others \"npm run build\" \"npm run hugo\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^8.5.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "bootstrap": "^4.1.1",
+    "concurrently": "^3.5.1",
+    "copy-webpack-plugin": "^4.5.1",
+    "css-loader": "^0.28.11",
+    "exports-loader": "^0.7.0",
+    "file-loader": "^1.1.11",
+    "html-minifier": "^3.5.16",
+    "intersection-observer": "^0.5.0",
+    "jquery": "^3.3.1",
+    "lozad": "^1.4.0",
+    "mini-css-extract-plugin": "^0.4.0",
+    "node-sass": "^4.9.0",
+    "popper.js": "^1.14.3",
+    "postcss-loader": "^2.1.5",
+    "precss": "^3.1.2",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4"
+  }
+}

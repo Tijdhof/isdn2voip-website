@@ -1,0 +1,6 @@
+baseURL: ""
+languageCode: "nl-nl"
+title: "Boostrap starter theme for hugo"
+theme: "bootstraptheme"
+params:
+  og_image: 
