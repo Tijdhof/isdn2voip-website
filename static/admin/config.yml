@@ -162,11 +162,10 @@ collections:
     label: "Homepage" # Used in the UI
     folder: "content" # The path to the folder where the documents are stored
     filter: {field: "layout", value: "index"}
-    create: true # Allow users to create new documents in this collection
+    create: false # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "string"}
       - label: "Hero"
         name: "hero"
         widget: "object"
@@ -177,6 +176,9 @@ collections:
           - label: "Subtitle"
             name: "subtitle"
             widget: "string"
+          - label: "Content"
+            name: "content"
+            widget: "text"
           - label: "Image"
             name: "image"
             widget: "object"
@@ -187,7 +189,52 @@ collections:
               - label: "Large image"
                 name: "large"
                 widget: "image"
-      - {label: "Body", name: "body", widget: "markdown"} 
+      - label: "Usps"
+        name: "usps"
+        widget: "object"
+        fields:
+          - label: "Title"
+            name: 'title'
+            widget: 'string'
+          - label: 'Items'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - label: 'Icon'
+                name: 'icon'
+                widget: 'string'
+              - label: 'Title'
+                name: 'title'
+                widget: 'string'
+              - label: 'Content'
+                name: 'content'
+                widget: 'markdown'
+      - label: 'Mogelijkheden'
+        name: 'mogelijkheden'
+        widget: 'object'
+        fields: 
+          - label: 'Title'
+            name: 'title'
+            widget: 'string'
+          - label: 'Content'
+            name: 'content'
+            widget: 'text'
+          - label: 'Items'
+            name: 'items'
+            widget: 'list'
+            fields: 
+              - label: "Image"
+                name: 'image'
+                widget: "image"
+              - label: 'Title'
+                name: 'title'
+                widget: 'string'
+              - label: 'Content'
+                name: 'content'
+                widget: "text"
+              - label: "Link"
+                name: 'link'
+                widget: 'string'
       - label: "Call to Action"
         name: "cta"
         widget: "object"
