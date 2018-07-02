@@ -4,3 +4,202 @@ backend:
   branch: master
 media_folder: "static/images/"
 public_folder: "/images/"
+collections:
+  - name: "branches" # Used in routes, e.g., /admin/collections/blog
+    label: "Branche" # Used in the UI
+    folder: "content/branches" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - label: "Hero"
+        name: "hero"
+        widget: "object"
+        fields: 
+          - label: "Title" 
+            name: "title"
+            widget: "string"
+          - label: "Subtitle"
+            name: "subtitle"
+            widget: "string"
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields: 
+              - label: "Small image"
+                name: "small"
+                widget: "image"
+              - label: "Large image"
+                name: "large"
+                widget: "image"
+      - {label: "Body", name: "body", widget: "markdown"} 
+      - label: "Content image"
+        name: "contentImage"
+        widget: "image"
+        default: "/images/office-image.png"
+      - label: "Call to Action"
+        name: "cta"
+        widget: "object"
+        fields:
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            default: "/images/luisteren.jpg"
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Content"
+            name: "content"
+            widget: "markdown"
+      - label: "Testimonials"
+        name: "testimonials"
+        widget: "object"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Content"
+            name: "content"
+            widget: "markdown"
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "Image"
+                name: "image"
+                widget: "image"
+              - label: "Title"
+                name: "title"
+                widget: "string"
+              - label: "Content"
+                name: "content"
+                widget: "markdown"
+              - label: "From"
+                name: "from"
+                widget: "string"
+  - name: "mogelijkheden" # Used in routes, e.g., /admin/collections/blog
+    label: "Mogelijkheid" # Used in the UI
+    folder: "content/mogelijkheden" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - label: "Hero"
+        name: "hero"
+        widget: "object"
+        fields: 
+          - label: "Title" 
+            name: "title"
+            widget: "string"
+          - label: "Subtitle"
+            name: "subtitle"
+            widget: "string"
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields: 
+              - label: "Small image"
+                name: "small"
+                widget: "image"
+              - label: "Large image"
+                name: "large"
+                widget: "image"
+      - {label: "Body", name: "body", widget: "markdown"} 
+      - label: "Content image"
+        name: "contentImage"
+        widget: "image"
+        default: "/images/office-image.png"
+      - label: "Call to Action"
+        name: "cta"
+        widget: "object"
+        fields:
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            default: "/images/luisteren.jpg"
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Content"
+            name: "content"
+            widget: "markdown"
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    filter: {field: "layout", value: "default"}
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - label: "Hero"
+        name: "hero"
+        widget: "object"
+        fields: 
+          - label: "Title" 
+            name: "title"
+            widget: "string"
+          - label: "Subtitle"
+            name: "subtitle"
+            widget: "string"
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields: 
+              - label: "Small image"
+                name: "small"
+                widget: "image"
+              - label: "Large image"
+                name: "large"
+                widget: "image"
+      - {label: "Body", name: "body", widget: "markdown"} 
+  - name: "home" # Used in routes, e.g., /admin/collections/blog
+    label: "Homepage" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    filter: {field: "layout", value: "index"}
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - label: "Hero"
+        name: "hero"
+        widget: "object"
+        fields: 
+          - label: "Title" 
+            name: "title"
+            widget: "string"
+          - label: "Subtitle"
+            name: "subtitle"
+            widget: "string"
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields: 
+              - label: "Small image"
+                name: "small"
+                widget: "image"
+              - label: "Large image"
+                name: "large"
+                widget: "image"
+      - {label: "Body", name: "body", widget: "markdown"} 
+      - label: "Call to Action"
+        name: "cta"
+        widget: "object"
+        fields:
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            default: "/images/luisteren.jpg"
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Content"
+            name: "content"
+            widget: "markdown"
+      

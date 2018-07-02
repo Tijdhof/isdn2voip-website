@@ -1,5 +1,6 @@
 ---
 title: Van ISDN naar VOIP
+layout: index
 hero:
     title: Van ISDN naar **VOIP**
     subtitle: CallvoipTelefonie zorgt voor een naadloze overstap!
