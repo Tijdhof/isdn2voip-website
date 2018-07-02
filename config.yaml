@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://wizardly-haibt-fec2f7.netlify.com/"
 languageCode: "nl-nl"
 title: "ISDN2VOIP"
 theme: "isdn2voip"
