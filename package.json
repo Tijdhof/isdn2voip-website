@@ -1,5 +1,5 @@
 {
-  "name": "hugobootstrap-website",
+  "name": "isdn2voip",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.7.0",
     "bootstrap": "^4.1.1",
-    "concurrently": "^3.5.1",
+    "concurrently": "^3.6.0",
     "copy-webpack-plugin": "^4.5.1",
     "css-loader": "^0.28.11",
     "exports-loader": "^0.7.0",

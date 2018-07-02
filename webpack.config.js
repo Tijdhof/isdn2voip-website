@@ -5,10 +5,10 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 module.exports = {
     entry: {
-        app: './themes/bootstraptheme/src/index.js'
+        app: './themes/isdn2voip/src/index.js'
     },
     output: {
-        path: path.join(__dirname, "./themes/bootstraptheme/static/dist"),
+        path: path.join(__dirname, "./themes/isdn2voip/static/dist"),
         filename: '[name].bundle.js',
     },
     module: {

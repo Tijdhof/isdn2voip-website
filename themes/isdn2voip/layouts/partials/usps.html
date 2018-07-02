@@ -1,0 +1,29 @@
+{{ if .Params.usps }}
+<div class="container">
+    <div class="row">
+        {{ if .Params.usps.title}}
+        <div class="col-sm-12 text-center py-5 mt-3">
+            <h2 class="display-5">{{ .Params.usps.title }}</h2>
+        </div>
+        {{ end }}
+
+        {{ range $index, $element :=  .Params.usps.items }}
+        <div class="col-sm-12 col-md-6 mb-5 d-flex">
+            {{ if .icon }}
+            <div class="circle bg-primary mr-4 text-white d-flex justify-content-center align-items-center h5">
+                <i class="fas {{.icon}}"></i>
+            </div>
+            {{ end }}
+            <div>
+                {{ if .title }}
+                    <h3 class="h5 mb-3">{{ .title }}</h3>
+                {{ end }}
+                {{ if .content }}
+                    <p>{{ .content | markdownify }}</p>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

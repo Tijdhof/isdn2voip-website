@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: "nl-nl"
-title: "Boostrap starter theme for hugo"
-theme: "bootstraptheme"
+title: "ISDN2VOIP"
+theme: "isdn2voip"
 params:
   og_image: 

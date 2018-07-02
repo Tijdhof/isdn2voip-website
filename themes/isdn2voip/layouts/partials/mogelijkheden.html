@@ -1,0 +1,38 @@
+{{ if .Params.mogelijkheden }}
+<div class="bg-light clear pb-5  mb-5" id="merken">
+    <div class="container pt-4">
+        <div class="row">
+            <div class="col-md-9 h-center text-center pt-5 ">
+                {{ if .Params.mogelijkheden.title }}
+                    <h2 class="display-5">{{ .Params.mogelijkheden.title }}</h2>
+                {{ end }}
+                {{ if .Params.mogelijkheden.content }}
+                    <p>{{ .Params.mogelijkheden.content }}</p>
+                {{ end }}
+            </div>
+        </div>
+        <div class="row pt-4">
+                {{ range $index, $element :=  .Params.mogelijkheden.items }}
+            <div class="col-md-4 d-flex flex-column justify-content-between align-items-start">
+                {{ if .image }}
+                    <img src="{{ .image }}" class="mb-4" alt="{{ .title }}">
+                {{ end }}
+                <div class="mb-2">
+                    {{ if .title }}
+                        <h3 class="h5">{{ .title }}</h3>
+                    {{ end }}
+                    {{ if .content }}
+                        <p class="small">{{ .content }}</p>
+                    {{ end }}
+                    {{ if .link }}
+                    <p>
+                        <a href="{{ .link }}" class="btn btn-outline-primary">Ontdek de mogelijkheden</a>
+                    </p>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

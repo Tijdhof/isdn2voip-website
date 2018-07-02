@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="row mt-5 pt-5 pb-5 d-flex align-items-center">
+        <div class="col-md-6 pr-4 mb-5 ">
+           {{ .Content }}
+        </div>
+        <div class="col-md-6 ">
+            {{ if .Params.contentImage }}
+            <img src="{{ .Params.contentImage }}">
+            {{ end }}
+        </div>
+    </div>
+</div>

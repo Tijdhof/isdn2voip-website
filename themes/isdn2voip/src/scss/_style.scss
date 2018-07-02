@@ -1,0 +1,83 @@
+body {
+    overflow-x: hidden;
+}
+
+.overlay-gray {
+    background-color: rgba(38, 60, 100, .4);
+    align-items: flex-end;
+    overflow: hidden;
+    @include media-breakpoint-up(md) {
+        align-items: center;
+    }
+}
+
+.main-hero {
+    height: 600px;
+    @include media-breakpoint-up(md) {
+        height: 800px;
+    }
+}
+
+.navbar-brand {
+    max-width: 150px;
+}
+
+.hero-image {
+    width: 100vw;
+    height: 100%;
+    object-fit: cover;
+    object-position: right top;
+    position: absolute;
+    display: block;
+    overflow: hidden;
+    img,
+    source {
+        width: 100vw;
+        height: 100%;
+        object-fit: cover;
+        object-position: right top;
+        position: absolute;
+        display: block;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+.navbar {
+    overflow: hidden;
+    @include media-breakpoint-down(sm) {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+}
+
+.display-4 {
+    @include media-breakpoint-down(md) {
+        font-size: 2.5rem;
+    }
+}
+
+.bg-green {
+    background-color: $green;
+}
+
+.circle {
+    min-width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.flex-1 {
+    flex: auto;
+}
+
+.bg-light, .card-header {
+    background-color: #f1f3f5 !important;
+}
+
+.h-center {
+    margin-left: auto;
+    margin-right: auto;
+}
