@@ -1,7 +1,7 @@
 ---
 title: Behoud ISDN apparatuur
 draft: false
-slug: hosted-voip
+slug: behoud-isdn-apparatuur
 hero:
   image:
     large: /images/hero-behoudisdn.jpg
