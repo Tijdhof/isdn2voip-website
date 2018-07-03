@@ -9,7 +9,7 @@ hero:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
   subtitle: Laat u vrijblijvend adviseren!
-  title: Van ISDN naar **VOIP**
+  title: Van ISDN naar **VoIP**
 usps:
   items:
     - content: >-
@@ -27,9 +27,9 @@ usps:
       icon: fa-phone
       title: Nummerbehoud /-aanvraag
     - content: >-
-        Met** meer dan 10 jaar ervaring** staat een deskundig team voor u klaar
-        voor een advies op maat of om al uw vragen over uw telefoniezaken te
-        beantwoorden. Snel geholpen worden en altijd persoonlijk contact en
+        Met** **meer dan **10 jaar ervaring** staat een deskundig team voor u
+        klaar voor een advies op maat of om al uw vragen over uw telefoniezaken
+        te beantwoorden. Snel geholpen worden en altijd persoonlijk contact en
         advies, daar staan wij om bekend.
       icon: fa-user-alt
       title: Deskundig team
@@ -40,15 +40,15 @@ usps:
       icon: fa-balance-scale
       title: Schaalbaarheid en flexitbiliteit
     - content: >-
-        Met de aanschaf van een VoIP-gateway kunt u blijven bellen met uw
+        Met de aanschaf van een **VoIP-gateway** kunt u blijven bellen met uw
         huidige apparatuur. Zo stapt u wel over op VoIP, maar scheelt dit weer
-        eenmalige aanschafkosten van nieuwe apparatuur
+        eenmalige aanschafkosten van nieuwe apparatuur.
       icon: fa-laugh
       title: Behoud van apparatuur
     - content: >-
         Internetverbindingen & VoIP-apparatuur zijn zeer belangrijk bij een
         goede VoIP-oplossing. Ook deze kennis en producten hebben wij in huis.
-        Wij adviseren u hier ook graag over. Zo heeft u één aanspreekpunt.
+        Wij adviseren u hier ook graag over. Zo heeft u **één aanspreekpunt**.
       icon: fa-building
       title: Kennis van internetverbindingen
   title: 'Een overstap kan ook simpel zijn. Wij bieden u:'
@@ -75,7 +75,7 @@ mogelijkheden:
       title: Behoud ISDN apparatuur
     - content: >-
         Bent u op zoek naar een simpele en zeer betaalbare VoIP-oplossing? Wij
-        hebben de oplossing voor u: VoIP zonder gedoe! 
+        hebben de oplossing voor u: VoIP zonder gedoe! Wij ontzorgen u graag.
       image: /images/voip2go.jpg
       link: /mogelijkheden/voip2go/
       title: VoIP zonder gedoe
