@@ -54,10 +54,10 @@ usps:
   title: 'Een overstap kan ook simpel zijn. Wij bieden u:'
 mogelijkheden:
   content: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa
-    luctus, faucibus nibh sed, pharetra mauris. Quisque euismod condimentum
-    tellus vitae congue. Vestibulum posuere purus ac nunc lacinia, quis
-    consequat tellus tristique
+    We willen het eigenlijk niet te lastig maken, maar er zijn drie
+    mogelijkheden als u overstapt van ISDN naar VoIP. Deze drie mogelijkheden
+    zijn hieronder beschreven. Geen idee wat voor u het beste is? Wij adviseren
+    u graag!
   items:
     - content: >-
         Met een Hosted VoIP oplossing verplaatst u de telefonie in de cloud.
@@ -81,8 +81,13 @@ mogelijkheden:
       title: VoIP zonder gedoe
   title: Welke mogelijkheden zijn er?
 cta:
-  content: "## Staat uw branche er niet tussen?\r \n\nGeen paniek! Wij hebben ervaring met alle branches. Wij komen graag in contact met u om uw wensen te beluisteren en de mogelijkheden te bespreken.\r Stuur een e-mail naar offerte@isdn2voip.nl, [Bel: 050 820 00 05](tel:+31508200000) of vul bovenstaand formulier in."
+  content: >-
+    Geen paniek! Wij hebben ervaring met alle branches. Wij komen graag in
+    contact met u om uw wensen te beluisteren en de mogelijkheden te bespreken.
+
+    Stuur een e-mail naar [offerte@isdn2voip.nl](offerte@isdn2voip.nl), [Bel:
+    050 820 00 05](tel:+31508200005) of vul bovenstaand formulier in.
   image: /images/branches.jpg
-  title: 'Voor iedere branche een oplossing:'
+  title: Staat uw branche er niet tussen?
 ---
 
