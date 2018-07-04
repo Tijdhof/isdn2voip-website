@@ -34,15 +34,9 @@ testimonials:
 
 Er wordt nog veel gefaxt naar de rechtbank toe, maar er moet wel een overstap naar VoIP gemaakt worden omdat ISDN langzaam wordt uitgefaseerd. Het advocatenkantoor brengt het liefst alles onder bij één partij. Verder kan het opnemen van gesprekken nog eens van pas komen. 
 
-Voor de juridische sector is een betrouwbare faxoplossing van groot belang. Bovendien is gespreksopname en veilig (encrypted) bellen een vaak gehoorde wens. 
-
-
+Voor de juridische sector is een betrouwbare faxoplossing van groot belang. Bovendien is gespreksopname en veilig (encrypted) bellen een vaak gehoorde wens. 
 
 ## Oplossing
-
-Door de PDF-2-Fax functionaliteit te gebruiken kan het antieke faxapparaat op straat worden gezet. Een .pdf document kan via een online bedieningspaneel verstuurd worden naar een faxnummer. U krijgt een bevestiging als deze fax daadwerkelijk is verstuurd. Ook inkomende faxen kunt u ontvangen en deze worden als. Pdf bestand naar uw e-mail gestuurd.
-
-Met de functionaliteit gespreksopname kunt u per toestel aangeven of gesprekken worden opgenomen. Ook stelt u eenvoudig in hoe lang de opnames worden bewaard.
 
 Juist voor de juridische sector biedt onze VoIP-oplossing een volledige faxoplossing zónder dat u hiervoor nog een faxapparaat nodig heeft. U ontvangt faxen als PDF per email en stuurt ze weg door een PDF te uploaden. Uw faxen worden veilig opgeslagen en u ontvangt een verzendrapport met print van het voorblad. Het faxsysteem voorziet in een zo doeltreffend mogelijke zending zodat u vrijwel elke fax probleemloos kunt faxen. 
 
