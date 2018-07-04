@@ -28,19 +28,19 @@ testimonials:
     - content: >-
         Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
         ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
-      from: Roger de Vries - Tandarts
+      from: Tandarts Krans - Groningen
       image: /images/roger.jpg
       title: VOIP zoals het moet
     - content: >-
         Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
         ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
-      from: Leta Walters - Mondhygienist
+      from: Tandarts Piet - Amsterdam
       image: /images/jane.jpg
       title: Goed geholpen
     - content: >-
         Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
         ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
-      from: Kathryn Soto - Tandarts
+      from: Tandarts Ingrid - Middelburg
       image: /images/lisa.jpg
       title: Goed en niet duur
   title: Uw Tandartspraktijk is in goede handen
