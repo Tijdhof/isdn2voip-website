@@ -1,6 +1,6 @@
 ---
 title: Advocatuur
-draft: true
+draft: false
 slug: advocatuur
 hero:
   subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VoIP!
