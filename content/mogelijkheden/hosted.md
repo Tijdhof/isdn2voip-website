@@ -21,17 +21,13 @@ cta:
 ---
 Elke organisatie is uniek en elke organisatie heeft eigen telefonie-wensen en -eisen. Met een Hosted VoIP-oplossing maken wij voor u een telefonieoplossing op maat.
 
-U krijgt uw eigen hosted VoIP-oplossing met desgewenst (advies in) apparatuur en internetverbinding.
+U krijgt uw eigen hosted VoIP-oplossing met desgewenst (advies in) apparatuur en internetverbinding.
 
-Met een hosted VoIP centrale bent u zeer flexibel in de omvang. Dankzij de schaalbaarheid voegt u eenvoudig telefoonnummers, toestellen of functionaliteiten toe of verwijdert u ze juist. De Hosted VoIP centrale biedt vele functionaliteiten zoals:
+Met een Hosted VoIP centrale bent u zeer flexibel in de omvang. Dankzij de schaalbaarheid voegt u eenvoudig telefoonnummers, toestellen of functionaliteiten toe of verwijdert u ze juist. De Hosted VoIP centrale biedt vele functionaliteiten zoals:
 
-* Wachtrij
+* Wachtrij
 * Keuzemenu
 * Gespreksopname
-* Tijdscondities
-* Omleidingen 
-* Voicemailbox
-* Faxbox
 * Universele API (integraties)
 * Smartphone mobiele app
 * En meer...
