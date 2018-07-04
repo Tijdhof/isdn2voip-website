@@ -29,7 +29,7 @@ testimonials:
         Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
         ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
       from: Advocaat Jan - Groningen
-      image: /images/lisa.jpg
+      image: /images/logo-advocatuur-hvda.jpg
       title: Lekker faxen
   title: Uw advocatenpraktijk is in goede handen
 ---
