@@ -1,6 +1,6 @@
 ---
 title: Makelaardij
-draft: true
+draft: false
 slug: makelaardij
 hero:
   subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VoIP!
