@@ -1,34 +1,47 @@
 ---
 title: Autodealer
+draft: true
 slug: autodealer
 hero:
-    title: Ontdek VOIP telefonie voor uw **Autodealer**
-    subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VOIP!
-    image:
-        small: /images/hero-autodealer-small.jpg
-        large: /images/hero-autodealer.jpg
+  image:
+    large: /images/hero-autodealer.jpg
+    small: /images/hero-autodealer-small.jpg
+  subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VOIP!
+  title: Ontdek VOIP telefonie voor uw **Autodealer**
 contentImage: /images/office-image.png
 cta:
-    image: /images/luisteren.jpg
-    title: Callvoip luistert naar uw situatie
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at diam id lectus bibendum fringilla in ut orci. Nam bibendum quis ipsum nec congue.
-    [Bel: 050 820 00 00](tel:+31508200000)"
+  content: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at diam id
+    lectus bibendum fringilla in ut orci. Nam bibendum quis ipsum nec congue.
+    [Bel: 050 820 00 00](tel:+31508200000)
+  image: /images/luisteren.jpg
+  title: Callvoip luistert naar uw situatie
 testimonials:
-    title: Uw Autodealer is in goede handen
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa luctus, faucibus nibh sed, pharetra mauris. Quisque euismod condimentum tellus vitae congue. Vestibulum posuere purus ac nunc lacinia, quis consequat tellus tristique.
-    items:
-        -   image: /images/roger.jpg
-            title: VOIP zoals het moet
-            content: Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
-            from: Roger de Vries - Tandarts
-        -   image: /images/jane.jpg
-            title: Goed geholpen
-            content: Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
-            from: Leta Walters - Mondhygienist
-        -   image: /images/lisa.jpg
-            title: Goed en niet duur
-            content: Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
-            from: Kathryn Soto - Tandarts
+  content: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa
+    luctus, faucibus nibh sed, pharetra mauris. Quisque euismod condimentum
+    tellus vitae congue. Vestibulum posuere purus ac nunc lacinia, quis
+    consequat tellus tristique.
+  items:
+    - content: >-
+        Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
+        ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
+      from: Roger de Vries - Tandarts
+      image: /images/roger.jpg
+      title: VOIP zoals het moet
+    - content: >-
+        Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
+        ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
+      from: Leta Walters - Mondhygienist
+      image: /images/jane.jpg
+      title: Goed geholpen
+    - content: >-
+        Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
+        ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
+      from: Kathryn Soto - Tandarts
+      image: /images/lisa.jpg
+      title: Goed en niet duur
+  title: Uw Autodealer is in goede handen
 ---
 
 <h2 class="mb-4">Telefonie kan ook leuk zijn!</h2>
