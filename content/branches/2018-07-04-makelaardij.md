@@ -24,6 +24,7 @@ testimonials:
   items:
     - content: Wij gebruiken een API
       from: Vastgoed Noord - Groningen
+      image: /images/lisa.jpg
       title: Goede API
   title: Uw makelaarskantoor is in goede handen
 ---
