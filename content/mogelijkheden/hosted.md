@@ -1,23 +1,45 @@
 ---
-title: Hosted VoIP - Mogelijkheden van ISDN naar VOIP
+title: Hosted VoIP
+draft: true
 slug: hosted-voip
 hero:
-    title: Ontdek de mogelijkheden van **Hosted VOIP** telefonie
-    subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VOIP!
-    image:
-        small: /images/hero-small.jpg
-        large: /images/hero-hosted.jpg
+  image:
+    large: /images/hero-hosted.jpg
+    small: /images/hero-small.jpg
+  subtitle: Maak gebruik van een telefooncentrale in de cloud!
+  title: Ontdek de mogelijkheden van **Hosted VoIP** telefonie
 contentImage: /images/office-image.png
 cta:
-    image: /images/luisteren.jpg
-    title: Callvoip luistert naar uw situatie
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at diam id lectus bibendum fringilla in ut orci. Nam bibendum quis ipsum nec congue.
-    [Bel: 050 820 00 00](tel:+31508200000)"
+  content: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at diam id
+    lectus bibendum fringilla in ut orci. Nam bibendum quis ipsum nec congue.
+    [Bel: 050 820 00 00](tel:+31508200000)
+  image: /images/luisteren.jpg
+  title: Geïnteresseerd?
 ---
+Elke organisatie is uniek en elke organisatie heeft eigen telefonie-wensen en -eisen. Met een Hosted VoIP-oplossing maken wij voor u een telefonieoplossing op maat.
 
-<h2 class="mb-4">Telefonie kan ook leuk zijn!</h2>
-<p>VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap daarom vandaag nog over van ISDN op deze moderne en kostenbesparende oplossing voor uw telefonie. Bij CallvoipTelefonie hebben we veel ervaring met dergelijke porteringen en u kunt gewoon uw oude (ISDN-)telefoonnummers meenemen. Simmpl toch?</p>
-<p class="mb-4">
-    <a href="https://www.callvoiptelefonie.nl/offerte-aanvragen/" class="btn btn-primary">Neem dan contact op</a>
-</p>
-<p>Bent u al klant van CallvoipTelefonie? Klik hier voor service, support en contact</p>
+U krijgt uw eigen hosted VoIP-oplossing met desgewenst (advies in) apparatuur en internetverbinding.
+
+Met een hosted VoIP centrale bent u zeer flexibel in de omvang. Dankzij de schaalbaarheid voegt u eenvoudig telefoonnummers, toestellen of functionaliteiten toe of verwijdert u ze juist. De Hosted VoIP centrale biedt vele functionaliteiten zoals:
+
+* Wachtrij
+* Keuzemenu
+* Gespreksopname
+* Tijdscondities
+* Omleidingen 
+* Voicemailbox
+* Faxbox
+* Universele API (integraties)
+* Smartphone mobiele app
+* En meer...
+
+Overige voordelen van Hosted VoIP:
+
+* Kostenbesparend
+* Geen langlopende contracten (maandelijks opzegbaar)
+* Verschillende vestigingen in 1 omgeving
+* Ook thuiswerkers bereikbaar onder het zakelijk nummer
+* Schaalbaar en zeer flexibel
+
+Voor zowel het MKB als grootzakelijk bieden wij maatwerk-oplossingen aan!
