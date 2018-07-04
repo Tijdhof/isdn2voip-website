@@ -1,6 +1,6 @@
 ---
 title: Tandartspraktijk
-draft: true
+draft: false
 slug: tandartspraktijk
 hero:
   image:
@@ -11,9 +11,11 @@ hero:
 contentImage: /images/office-image.png
 cta:
   content: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at diam id
-    lectus bibendum fringilla in ut orci. Nam bibendum quis ipsum nec congue.
-    [Bel: 050 820 00 00](tel:+31508200000)
+    Neem contact met ons op via <mailto:offerte@callvoip.nl>, bel naar [050 820
+    00 00](tel:+31508200000) of vul het formulier hiernaast in. Wij vernemen
+    graag uw wensen en bespreken de mogelijkheden met daarbij horende kosten.
+    Een rondleiding in onze demo-omgeving behoort natuurlijk ook tot de
+    mogelijkheden.
   image: /images/luisteren.jpg
   title: Callvoip luistert naar uw situatie
 testimonials:
