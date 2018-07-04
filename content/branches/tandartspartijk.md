@@ -43,7 +43,7 @@ testimonials:
       from: Tandarts Ingrid - Middelburg
       image: /images/lisa.jpg
       title: Goed en niet duur
-  title: Uw Tandartspraktijk is in goede handen
+  title: Uw tandartspraktijk is in goede handen
 ---
 ## Situatie
 
