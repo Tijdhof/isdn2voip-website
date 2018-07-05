@@ -1,6 +1,6 @@
 ---
 title: Aanvraag verzonden
-draft: true
+draft: false
 slug: aanvraag-verzonden
 hero:
   image:
