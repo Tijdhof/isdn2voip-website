@@ -1,14 +1,16 @@
 ---
 title: Aanvraag verzonden
+draft: true
 slug: aanvraag-verzonden
-type: page
-layout: default
 hero:
-    title: Aanvraag verzonden
-    subtitle: CallvoipTelefonie zorgt voor een naadloze overstap!
-    image:
-        small: /images/hero-small.jpg
-        large: /images/hero.jpg
+  image:
+    large: /images/aanvraagbedankt-small.jpg
+    small: /images/hero-small.jpg
+  subtitle: Binnen 1 werkdag nemen wij contact met u op!
+  title: Aanvraag verzonden
 ---
+# Hartelijk bedankt voor uw aanvraag!
 
-[ hier komt tekst ]
+Wij nemen binnen 1 werkdag contact met u op.
+
+![](/images/aanvraagbedankt-small.jpg)
