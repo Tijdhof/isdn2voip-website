@@ -17,11 +17,7 @@ cta:
     in. \
 
     Wij vernemen graag uw wensen en bespreken de mogelijkheden met daarbij
-    horende kosten. 
-
-
-    Een rondleiding in onze **demo-omgeving** behoort natuurlijk ook tot de
-    mogelijkheden.
+    horende kosten.
   image: /images/brancheluistert.jpg
   title: Wij luisteren naar uw situatie!
 testimonials:
