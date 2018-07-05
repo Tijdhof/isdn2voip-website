@@ -39,6 +39,6 @@ Voor de juridische sector is een betrouwbare faxoplossing van groot belang. Bove
 
 Juist voor de juridische sector biedt onze VoIP-oplossing een **volledige faxoplossing** zónder dat u hiervoor nog een faxapparaat nodig heeft. U ontvangt faxen als PDF per email en stuurt ze weg door een PDF te uploaden. Uw faxen worden veilig opgeslagen en u ontvangt een verzendrapport met print van het voorblad. Het faxsysteem voorziet in een zo doeltreffend mogelijke zending zodat u vrijwel elke fax probleemloos kunt faxen. 
 
-Met de functionaliteit **gespreksopname **kunt u per toestel aangeven of gesprekken worden opgenomen. Ook stelt u eenvoudig in hoe lang de opnames worden bewaard.
+Met de functionaliteit **gespreksopname** kunt u per toestel aangeven of gesprekken worden opgenomen. Ook stelt u eenvoudig in hoe lang de opnames worden bewaard.
 
 Ook **encrypted bellen** behoort tot de mogelijkheden van onze VoIP-dienst.
