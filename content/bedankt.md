@@ -9,8 +9,4 @@ hero:
   subtitle: Binnen 1 werkdag nemen wij contact met u op!
   title: Aanvraag verzonden
 ---
-# Hartelijk bedankt voor uw aanvraag!
-
-Wij nemen binnen 1 werkdag contact met u op.
-
-![](/images/aanvraagbedankt-small.jpg)
+ Kunt u niet wachten? Stuur dan een e-mail naar <mailto:offerte@isdn2voip.nl> of bel: [050 820 00 05.](tel:+31508200005)
