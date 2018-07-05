@@ -56,8 +56,9 @@ mogelijkheden:
   content: >-
     We willen het eigenlijk niet te lastig maken, maar er zijn drie
     mogelijkheden als u overstapt van ISDN naar VoIP. Deze drie mogelijkheden
-    zijn hieronder beschreven. Geen idee wat voor u het beste is? Wij adviseren
-    u graag!
+    zijn hieronder beschreven. 
+
+    Geen idee wat voor u het beste is? Wij adviseren u graag!
   items:
     - content: >-
         Met een Hosted VoIP oplossing verplaatst u de telefonie in de cloud.
@@ -85,8 +86,8 @@ cta:
     Geen paniek! Wij hebben ervaring met alle branches. Wij komen graag in
     contact met u om uw wensen te beluisteren en de mogelijkheden te bespreken.
 
-    Stuur een e-mail naar [offerte@isdn2voip.nl](offerte@isdn2voip.nl), [Bel:
-    050 820 00 05](tel:+31508200005) of vul bovenstaand formulier in.
+    Stuur een e-mail naar <mailto:offerte@isdn2voip.nl>, [Bel: 050 820 00
+    05](tel:+31508200005) of vul bovenstaand formulier in.
   image: /images/branches.jpg
   title: Staat uw branche er niet tussen?
 ---
