@@ -11,7 +11,7 @@ hero:
 contentImage: /images/voipgateway.png
 cta:
   content: >-
-    Neem contact met ons op via <mailto:offerte@callvoip.nl>, bel naar [050 820
+    Neem contact met ons op via <mailto:offerte@isdn2voip.nl>, bel naar [050 820
     00 00](tel:+31508200000) of vul het formulier hiernaast in. \
 
     Wij vernemen graag uw wensen en bespreken de mogelijkheden met daarbij
