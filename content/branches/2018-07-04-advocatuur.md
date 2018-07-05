@@ -6,7 +6,7 @@ hero:
   image:
     large: /images/hero-assurantiekantoor.jpg
     small: /images/hero-assurantiekantoor-small.jpg
-  subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VoIP!
+  subtitle: Wij zorgen voor een naadloze overstap naar VoIP!
   title: Ontdek VoIP telefonie voor uw advocatenpraktijk
 contentImage: /images/tablet-faxbox.png
 cta:
