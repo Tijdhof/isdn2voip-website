@@ -5,7 +5,7 @@ slug: onderwijs
 hero:
   image:
     large: /images/hero-onderwijs.jpg
-  subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VOIP!
+  subtitle: Wij zorgen voor een naadloze overstap naar VOIP!
   title: Ontdek VoIP telefonie voor het **Onderwijs**
 contentImage: /images/office-image.png
 cta:
