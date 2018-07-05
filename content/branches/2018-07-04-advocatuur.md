@@ -26,7 +26,7 @@ testimonials:
         faxapparaat heb, is dit de perfecte oplossing!
       from: Advocaat Jan - Groningen
       image: /images/logo-advocatuur-hvda.jpg
-      title: Lekker faxen
+      title: Faxen zonder faxapparaat
   title: Uw advocatenpraktijk is in goede handen
 ---
 ## Situatie
