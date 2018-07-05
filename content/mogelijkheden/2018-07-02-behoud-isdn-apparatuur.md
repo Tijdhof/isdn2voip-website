@@ -20,7 +20,7 @@ cta:
 
     Een rondleiding in onze **demo-omgeving** behoort natuurlijk ook tot de
     mogelijkheden.
-  image: /images/luisteren.jpg
+  image: /images/geinteresseerd.jpg
   title: Geïnteresseerd?
 ---
 Met een **VoIP Gateway** maakt u een brug tussen uw huidige ISDN-centrale en onze VoIP-oplossing. Wij adviseren u graag welk type het beste bij uw situatie past.
