@@ -16,7 +16,7 @@ cta:
     graag uw wensen en bespreken de mogelijkheden met daarbij horende kosten.
     Een rondleiding in onze demo-omgeving behoort natuurlijk ook tot de
     mogelijkheden.
-  image: /images/luisteren.jpg
+  image: /images/brancheluistert.jpg
   title: Callvoip luistert naar uw situatie
 testimonials:
   content: '> Deze tevreden klanten gingen u voor:'
