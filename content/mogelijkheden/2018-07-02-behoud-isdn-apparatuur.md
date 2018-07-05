@@ -5,16 +5,18 @@ slug: behoud-isdn-apparatuur
 hero:
   image:
     large: /images/photo-1526979272661-f2849f9fc0b7.jpg
-    small: /images/hero-behoudisdn-small.jpg
+    small: ''
   subtitle: Dankzij het gebruik van een VoIP gateway
   title: Behoud **ISDN** apparatuur
-contentImage: /images/office-image.png
+contentImage: /images/voipgateway.png
 cta:
   content: >-
     Neem contact met ons op via <mailto:offerte@callvoip.nl>, bel naar [050 820
     00 00](tel:+31508200000) of vul het formulier hiernaast in. Wij vernemen
-    graag uw wensen en bespreken de mogelijkheden met daarbij horende kosten.
-    Een rondleiding in onze demo-omgeving behoort natuurlijk ook tot de
+    graag uw wensen en bespreken de mogelijkheden met daarbij horende kosten. 
+
+
+    Een rondleiding in onze **demo-omgeving** behoort natuurlijk ook tot de
     mogelijkheden.
   image: /images/luisteren.jpg
   title: Geïnteresseerd?
