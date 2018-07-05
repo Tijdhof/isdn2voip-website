@@ -4,7 +4,7 @@ draft: false
 slug: behoud-isdn-apparatuur
 hero:
   image:
-    large: /images/hero-behoudisdn.jpg
+    large: /images/photo-1526979272661-f2849f9fc0b7.jpg
     small: /images/hero-behoudisdn-small.jpg
   subtitle: Dankzij het gebruik van een VoIP gateway
   title: Behoud **ISDN** apparatuur
@@ -19,7 +19,7 @@ cta:
   image: /images/luisteren.jpg
   title: Geïnteresseerd?
 ---
-Met een **VoIP Gateway** maakt u een brug tussen uw huidige ISDN-centrale en onze VoIP-oplossing. Wij werken hier met Patton apparatuur.
+Met een **VoIP Gateway** maakt u een brug tussen uw huidige ISDN-centrale en onze VoIP-oplossing. Wij adviseren u graag welk type het beste bij uw situatie past.
 
 Door de aanschaf van een VoIP Gateway hoeft u niet over te gaan tot de aanschaf van nieuwe toestellen. Dit scheelt weer in de eenmalige kosten die anders bij een overstap van ISDN naar VoIP komen kijken. 
 
