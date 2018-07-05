@@ -19,15 +19,11 @@ cta:
   image: /images/luisteren.jpg
   title: Callvoip luistert naar uw situatie
 testimonials:
-  content: >-
-    > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa
-    luctus, faucibus nibh sed, pharetra mauris. Quisque euismod condimentum
-    tellus vitae congue. Vestibulum posuere purus ac nunc lacinia, quis
-    consequat tellus tristique.
+  content: '> Deze tevreden klanten gingen u voor:'
   items:
     - content: >-
-        Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aenean ut
-        ultricies urna. Quisque posuere dapibus lorem, at semper nibh vel.
+        Aangezien de rechtbank nog faxen van mij verwacht, maar ik geen
+        faxapparaat heb, is dit de perfecte oplossing!
       from: Advocaat Jan - Groningen
       image: /images/logo-advocatuur-hvda.jpg
       title: Lekker faxen
