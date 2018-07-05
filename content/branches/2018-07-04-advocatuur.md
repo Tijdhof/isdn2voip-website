@@ -11,13 +11,19 @@ hero:
 contentImage: /images/tablet-faxbox.png
 cta:
   content: >-
-    Neem contact met ons op via <mailto:offerte@isdn2voip.nl>, bel naar [050 820
-    00 00](tel:+31508200000) of vul het formulier hiernaast in. Wij vernemen
-    graag uw wensen en bespreken de mogelijkheden met daarbij horende kosten.
-    Een rondleiding in onze demo-omgeving behoort natuurlijk ook tot de
+    Zit u in dezelfde branche, maar is uw situatie anders en wenst u deze met
+    ons te bespreken? Neem contact met ons op via <mailto:offerte@isdn2voip.nl>,
+    bel naar [050 820 00 05](tel:+31508200005) of vul het formulier hiernaast
+    in. \
+
+    Wij vernemen graag uw wensen en bespreken de mogelijkheden met daarbij
+    horende kosten. 
+
+
+    Een rondleiding in onze **demo-omgeving** behoort natuurlijk ook tot de
     mogelijkheden.
   image: /images/brancheluistert.jpg
-  title: Callvoip luistert naar uw situatie
+  title: Wij luisteren naar uw situatie!
 testimonials:
   content: '> Deze tevreden klanten gingen u voor:'
   items:
