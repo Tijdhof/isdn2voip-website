@@ -20,13 +20,9 @@ cta:
   image: /images/brancheluistert.jpg
   title: Wij luisteren naar uw situatie
 testimonials:
-  content: 'Deze tevreden klanten gingen u voor:'
-  items:
-    - content: 'Korte lijnen, duidelijke communicatie en altijd nieuwe innovaties'
-      from: Germ Wijnia - Bint Makelaardij
-      image: /images/logo_bint_200x200.png
-      title: Erg tevreden!
-  title: Uw makelaarskantoor is in goede handen
+  content: ''
+  items: []
+  title: ''
 ---
 ## Situatie
 
