@@ -22,9 +22,9 @@ cta:
 testimonials:
   content: 'Deze tevreden klanten gingen u voor:'
   items:
-    - content: '“Korte lijnen, duidelijke communicatie en altijd nieuwe innovaties”'
+    - content: 'Korte lijnen, duidelijke communicatie en altijd nieuwe innovaties'
       from: Germ Wijnia - Bint Makelaardij
-      image: /images/logo_bint_450x450.png
+      image: /images/logo_bint_200x200.png
       title: Erg tevreden met de oplossing!
   title: Uw makelaarskantoor is in goede handen
 ---
