@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-draft: true
+draft: false
 slug: privacy-policy
 layout: default
 type: page
