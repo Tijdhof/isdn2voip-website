@@ -6,7 +6,7 @@ hero:
   image:
     large: /images/hero-tandartspraktijk.jpg
     small: /images/hero-small.jpg
-  subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VOIP!
+  subtitle: Wij zorgen voor een naadloze overstap naar VOIP!
   title: Ontdek VoIP telefonie voor uw **Tandartspraktijk**
 contentImage: /images/office-image.png
 cta:
@@ -17,7 +17,7 @@ cta:
     Een rondleiding in onze demo-omgeving behoort natuurlijk ook tot de
     mogelijkheden.
   image: /images/luisteren.jpg
-  title: Callvoip luistert naar uw situatie
+  title: Wij luisteren naar uw situatie
 testimonials:
   content: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget massa
