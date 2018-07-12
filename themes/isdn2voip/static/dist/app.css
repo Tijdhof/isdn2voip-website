@@ -6356,6 +6356,11 @@ body {
     .overlay-gray {
       align-items: center; } }
 
+.hidden {
+  display: none;
+  height: 0;
+  width: 0; }
+
 .main-hero {
   height: 600px; }
   @media (min-width: 768px) {

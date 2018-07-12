@@ -2,6 +2,8 @@
 title: Aanvraag verzonden
 draft: false
 slug: aanvraag-verzonden
+type: page
+layout: default
 hero:
   image:
     large: /images/aanvraagbedankt-small.jpg

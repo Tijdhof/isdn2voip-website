@@ -1,21 +1,27 @@
-<form name="contact" etlify-honeypot="bot-field" class="form" action="aanvraag-verzonden" netlify>
+<form name="contact" netlify-honeypot="bot-field" class="form" action="aanvraag-verzonden" netlify>
+    <p class="hidden">
+        <label>Don’t fill this out if you're human:
+            <input name="bot-field" />
+        </label>
+    </p>
     <div class="form-group">
-        <label for="naam">Naam</label>
-        <input type="text" class="form-control" id="naam" placeholder="">
+        <label for="naam">Naam*</label>
+        <input type="text" class="form-control" id="naam" name="naam" placeholder="" required>
     </div>
     <div class="form-group">
-        <label for="email">Email address</label>
-        <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="">
+        <label for="email">E-mailadres*</label>
+        <input type="email" class="form-control" id="email" name="emailadres" aria-describedby="emailHelp" placeholder="" required>
     </div>
     <div class="form-group">
         <label for="phone">Telefoon</label>
-        <input type="text" class="form-control" id="phone" aria-describedby="phoneHelp" placeholder="">
+        <input type="text" class="form-control" id="phone" name="telefoon" aria-describedby="phoneHelp" placeholder="">
     </div>
     <div class="form-group form-check">
-        <input type="checkbox" class="form-check-input" id="akkoord">
-        <label class="form-check-label" for="akkoord">Met versturen van formulier ga ik akkoord met de
+        <input type="checkbox" class="form-check-input" name="privacyakkoord" id="akkoord" required>
+        <label class="form-check-label" for="akkoord">Met versturen van dit formulier ga ik akkoord met de
             <a href="/privacy-policy">Privacy Policy</a>
         </label>
     </div>
+    <div data-netlify-recaptcha></div>
     <button type="submit" class="btn btn-primary">Advies aanvragen</button>
 </form>

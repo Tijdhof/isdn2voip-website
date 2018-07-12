@@ -11,6 +11,12 @@ body {
     }
 }
 
+.hidden {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
 .main-hero {
     height: 600px;
     @include media-breakpoint-up(md) {

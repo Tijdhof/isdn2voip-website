@@ -1,5 +1,7 @@
 ---
 title: Stap over van ISDN op VoIP
+type: page
+layout: index
 hero:
   content: >-
     VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap
