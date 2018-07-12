@@ -12,8 +12,8 @@ cta:
   content: >-
     Zit u in dezelfde branche, maar is uw situatie anders en wenst u deze met
     ons te bespreken? Neem contact met ons op via <mailto:offerte@isdn2voip.nl>,
-    bel naar [050 820 00 05](tel:+31508200005) of vul het formulier hiernaast
-    in. \
+    bel naar [050 8200 500](tel:+31508200500) of vul het formulier hiernaast in.
+    \
 
     Wij vernemen graag uw wensen en bespreken de mogelijkheden met daarbij
     horende kosten.
@@ -22,10 +22,10 @@ cta:
 testimonials:
   content: 'Deze tevreden klanten gingen u voor:'
   items:
-    - content: Wij gebruiken een API
-      from: Vastgoed Noord - Groningen
-      image: /images/lisa.jpg
-      title: Goede API
+    - content: '“Korte lijnen, duidelijke communicatie en altijd nieuwe innovaties”'
+      from: Germ Wijnia - Bint Makelaardij
+      image: /images/logo_bint_450x450.png
+      title: Erg tevreden met de oplossing!
   title: Uw makelaarskantoor is in goede handen
 ---
 ## Situatie
