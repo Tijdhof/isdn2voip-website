@@ -1,7 +1,7 @@
 ---
 title: Stap over van ISDN op VoIP
-type: page
 layout: index
+type: page
 hero:
   content: >-
     VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap
@@ -29,7 +29,7 @@ usps:
       icon: fa-phone
       title: Nummerbehoud /-aanvraag
     - content: >-
-        Met **meer dan **10 jaar ervaring staat een deskundig team voor u klaar
+        Met meer dan **10 jaar ervaring** staat een deskundig team voor u klaar
         voor een advies op maat of om al uw vragen over uw telefoniezaken te
         beantwoorden. Snel geholpen worden en altijd persoonlijk contact en
         advies, daar staan wij om bekend.
