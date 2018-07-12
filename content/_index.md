@@ -27,9 +27,9 @@ usps:
       icon: fa-phone
       title: Nummerbehoud /-aanvraag
     - content: >-
-        Met meer dan **10 jaar ervaring** staat een deskundig team voor u klaar
-        voor een advies op maat of om al uw vragen over uw telefoniezaken te
-        beantwoorden. Snel geholpen worden en altijd persoonlijk contact en
+        Met** **meer dan **10 jaar ervaring** staat een deskundig team voor u
+        klaar voor een advies op maat of om al uw vragen over uw telefoniezaken
+        te beantwoorden. Snel geholpen worden en altijd persoonlijk contact en
         advies, daar staan wij om bekend.
       icon: fa-user-alt
       title: Deskundig team
@@ -48,7 +48,7 @@ usps:
     - content: >-
         Internetverbindingen & VoIP-apparatuur zijn zeer belangrijk bij een
         goede VoIP-oplossing. Ook deze kennis en producten hebben wij in huis.
-        Wij adviseren u hier ook graag over. Zo heeft u **één aanspreekpunt**.
+        Zo heeft u **één aanspreekpunt**.
       icon: fa-building
       title: Kennis van internetverbindingen
   title: 'Een overstap kan ook simpel zijn. Wij bieden u:'
@@ -56,8 +56,8 @@ mogelijkheden:
   content: >-
     We willen het eigenlijk niet te lastig maken, maar er zijn drie
     mogelijkheden als u overstapt van ISDN naar VoIP. Deze drie mogelijkheden
-    zijn hieronder beschreven.
-     
+    zijn hieronder beschreven. 
+
     Geen idee wat voor u het beste is? Wij adviseren u graag!
   items:
     - content: >-
@@ -86,8 +86,8 @@ cta:
     Geen paniek! Wij hebben ervaring met alle branches. Wij komen graag in
     contact met u om uw wensen te beluisteren en de mogelijkheden te bespreken.
 
-    Stuur een e-mail naar <mailto:offerte@isdn2voip.nl>, Bel: [050 8200
-    500](tel:+31508200500) of vul bovenstaand formulier in.
+    Stuur een e-mail naar <mailto:offerte@isdn2voip.nl>, [Bel: 050 820 00
+    05](tel:+31508200005) of vul bovenstaand formulier in.
   image: /images/branches.jpg
   title: Staat uw branche er niet tussen?
 ---
