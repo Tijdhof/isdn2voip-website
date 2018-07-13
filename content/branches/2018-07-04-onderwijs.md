@@ -5,6 +5,7 @@ slug: onderwijs
 hero:
   image:
     large: /images/hero-onderwijs.jpg
+    small: /images/hero-onderwijs-mobiel.jpg
   subtitle: Wij zorgen voor een naadloze overstap naar VOIP!
   title: Ontdek VoIP telefonie voor het **Onderwijs**
 contentImage: /images/office-image.png
