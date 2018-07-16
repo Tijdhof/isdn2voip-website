@@ -2,6 +2,18 @@ body {
     overflow-x: hidden;
 }
 
+
+    html {
+      font-size: .85rem;
+    }
+
+  
+  @include media-breakpoint-up(md) {
+    html {
+      font-size: 1rem;
+    }
+  }
+
 .overlay-gray {
     background-color: rgba(38, 60, 100, 0.4);
     align-items: flex-end;
