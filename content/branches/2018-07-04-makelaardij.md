@@ -5,6 +5,7 @@ slug: makelaardij
 hero:
   image:
     large: /images/hero-makelaardij.jpg
+    small: /images/hero-makelaardij-mobiel.jpg
   subtitle: CallvoipTelefonie zorgt voor een naadloze overstap naar VoIP!
   title: Ontdek VoIP telefonie voor de **Makelaardij**
 contentImage: /images/screenshot_20170804-102710.png
