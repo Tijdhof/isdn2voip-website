@@ -6361,7 +6361,7 @@ html {
   overflow: hidden;
   min-height: 600px;
   padding-bottom: 4rem;
-  padding-top: 11rem !important; }
+  padding-top: 8rem !important; }
   @media (min-width: 576px) {
     .overlay-gray {
       align-items: center;
@@ -6445,4 +6445,10 @@ img {
 
 label {
   margin-bottom: .25rem; }
+
+.show-md {
+  display: none; }
+  @media (min-width: 768px) {
+    .show-md {
+      display: block; } }
 

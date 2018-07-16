@@ -20,7 +20,7 @@ body {
     overflow: hidden;
     min-height: 600px;
     padding-bottom: 4rem;
-    padding-top: 11rem !important;
+    padding-top: 8rem !important;
     @include media-breakpoint-up(sm) {
         align-items: center;
         padding-top: 8rem !important;
@@ -116,4 +116,11 @@ img {
 
 label {
     margin-bottom: .25rem;
+}
+
+.show-md {
+    display: none;
+    @include media-breakpoint-up(md) {
+        display: block;
+    }
 }
