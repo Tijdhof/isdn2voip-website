@@ -6352,9 +6352,14 @@ body {
   background-color: rgba(38, 60, 100, 0.4);
   align-items: flex-end;
   overflow: hidden; }
+  @media (min-width: 576px) {
+    .overlay-gray {
+      align-items: center;
+      padding-top: 8rem !important; } }
   @media (min-width: 768px) {
     .overlay-gray {
-      align-items: center; } }
+      align-items: center;
+      padding-top: 6rem !important; } }
 
 .hidden {
   display: none;
@@ -6362,10 +6367,10 @@ body {
   width: 0; }
 
 .main-hero {
-  height: 600px; }
+  min-height: 600px; }
   @media (min-width: 768px) {
     .main-hero {
-      height: 800px; } }
+      min-height: 800px; } }
 
 .navbar-brand {
   max-width: 150px; }
@@ -6416,7 +6421,8 @@ img {
 .flex-1 {
   flex: auto; }
 
-.bg-light, .card-header {
+.bg-light,
+.card-header {
   background-color: #f1f3f5 !important; }
 
 .h-center {

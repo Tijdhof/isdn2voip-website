@@ -3,11 +3,16 @@ body {
 }
 
 .overlay-gray {
-    background-color: rgba(38, 60, 100, .4);
+    background-color: rgba(38, 60, 100, 0.4);
     align-items: flex-end;
     overflow: hidden;
+    @include media-breakpoint-up(sm) {
+        align-items: center;
+        padding-top: 8rem !important;
+    }
     @include media-breakpoint-up(md) {
         align-items: center;
+        padding-top: 6rem !important;
     }
 }
 
@@ -18,9 +23,9 @@ body {
 }
 
 .main-hero {
-    height: 600px;
+    min-height: 600px;
     @include media-breakpoint-up(md) {
-        height: 800px;
+        min-height: 800px;
     }
 }
 
@@ -79,7 +84,8 @@ img {
     flex: auto;
 }
 
-.bg-light, .card-header {
+.bg-light,
+.card-header {
     background-color: #f1f3f5 !important;
 }
 

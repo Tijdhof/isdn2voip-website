@@ -13,7 +13,7 @@
         </div>
         <div class="row pt-4">
                 {{ range $index, $element :=  .Params.mogelijkheden.items }}
-            <div class="col-md-4 d-flex flex-column justify-content-between align-items-start">
+            <div class="col-sm-12 col-md-12 col-lg-4 d-flex flex-column justify-content-between align-items-start">
                 {{ if .image }}
                     <img src="{{ .image }}" class="mb-4" alt="{{ .title }}">
                 {{ end }}
