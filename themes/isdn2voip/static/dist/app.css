@@ -6433,3 +6433,9 @@ img {
   margin-left: auto;
   margin-right: auto; }
 
+.form-group {
+  margin-bottom: .5rem; }
+
+label {
+  margin-bottom: .25rem; }
+
