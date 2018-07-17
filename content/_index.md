@@ -80,7 +80,7 @@ mogelijkheden:
         Bent u op zoek naar een simpele en zeer betaalbare VoIP-oplossing? Wij
         hebben de oplossing voor u: VoIP zonder gedoe! Wij ontzorgen u graag.
       image: /images/voip2go.jpg
-      link: /mogelijkheden/voip2go/
+      link: /mogelijkheden/voipzondergedoe
       title: VoIP zonder gedoe
   title: Welke mogelijkheden zijn er?
 cta:
