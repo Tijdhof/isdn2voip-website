@@ -40,7 +40,7 @@ usps:
         ISDN, locatie gebonden. Bovendien is de centrale in no-time eenvoudig
         uit te breiden met meer toestellen, gebruikers en/of functionaliteiten.
       icon: fa-balance-scale
-      title: Schaalbaarheid en flexitbiliteit
+      title: Schaalbaarheid en flexibiliteit
     - content: >-
         Met de aanschaf van een **VoIP-gateway** kunt u blijven bellen met uw
         huidige apparatuur. Zo stapt u wel over op VoIP, maar scheelt dit weer
