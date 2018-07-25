@@ -5,7 +5,7 @@ slug: tandartspraktijk
 hero:
   image:
     large: /images/hero-tandartspraktijk.jpg
-    small: /images/hero-small.jpg
+    small: /images/hero-tandarts-mobiel.png
   subtitle: Wij zorgen voor een naadloze overstap naar VOIP!
   title: Ontdek VoIP telefonie voor uw **Tandartspraktijk**
 contentImage: /images/office-image.png
