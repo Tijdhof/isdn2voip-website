@@ -8,6 +8,9 @@
         <label for="naam">Naam*</label>
         <input type="text" class="form-control" id="naam" name="naam" placeholder="" required>
     </div>
+    <p class="hidden">
+        <input type="text" class="form-control" id="pagina" name="pagina" aria-describedby="pagina" value="{{ .Permalink }}" placeholder="">
+    </p>
     <div class="form-group">
         <label for="email">E-mailadres*</label>
         <input type="email" class="form-control" id="email" name="emailadres" aria-describedby="emailHelp" placeholder="" required>

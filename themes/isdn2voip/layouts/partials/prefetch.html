@@ -1,0 +1,14 @@
+<link rel="preconnect" href="{{ .Site.BaseURL }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+<!-- Add prefetch and prerender on section pages. Works especially well for articles or blog posts in a series -->
+{{ if .IsPage }}
+	{{if .NextInSection }}
+	<link rel="prefetch" href="{{.NextInSection.Permalink}}">
+	<link rel="prerender" href="{{.NextInSection.Permalink}}">
+	{{ end }}
+	{{if .PrevInSection }}
+	<link rel="prefetch" href="{{.PrevInSection.Permalink}}">
+	<link rel="prerender" href="{{.PrevInSection.Permalink}}">
+	{{ end }}
+{{ end }}
