@@ -6452,3 +6452,6 @@ label {
     .show-md {
       display: block; } }
 
+.cc-banner .cc-btn:last-child {
+  min-width: 155px !important; }
+
