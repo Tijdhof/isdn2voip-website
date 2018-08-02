@@ -1,5 +1,6 @@
 ---
 title: Stap over van ISDN op VoIP
+description: Callvoip.nl
 layout: index
 type: page
 hero:
@@ -92,5 +93,28 @@ cta:
     500](tel:+31508200500) of vul het formulier in bovenaan deze pagina .
   image: /images/branches.jpg
   title: Staat uw branche er niet tussen?
+links:
+  - link: 'https://www.callvoiptelefonie.nl/mijncallvoip/'
+    title: Alle online formulieren voor CallvoipTelefonie
+  - link: 'https://www.callvoiptelefonie.nl/offerteaanvragen/'
+    title: Een offerte op maat voor uw situatie binnen 1 dag
+  - link: 'https://www.callvoiptelefonie.nl/kosten-en-mogelijkheden/telefooncentrale/'
+    title: 'Simmpl, de revolutionaire online telefooncentrale'
+  - link: 'https://www.callvoiptelefonie.nl/callvoippower/powerfeatures/wachtrij/'
+    title: Optimale controle met de wachtrij app
+  - link: 'https://www.callvoiptelefonie.nl/callvoippower/powerfeatures/keuzemenu/'
+    title: Direct de juiste persoon via de keuzemenu app
+  - link: 'https://www.callvoiptelefonie.nl/qaller/'
+    title: 'Grenzeloze vrijheid met Qaller, de smartphone app'
+  - link: 'https://callvoip.shop/nl/149-telefonie'
+    title: Door ons aanbevolen VoIP toestellen
+  - link: 'https://callvoip.shop/nl/167-router'
+    title: De best geteste netwerkrouters
+  - link: 'https://callvoip.shop/nl/204-professionele-oplossingen'
+    title: 'Professionele WiFi oplossingen '
+  - link: 'https://www.callvoiptelefonie.nl/totaaloplossing/internet/dsl/'
+    title: De snelste internetverbindingen via Callvoip
+  - link: 'http://support.callvoip.nl:8040/'
+    title: Remote assistentie door één van onze experts
 ---
 
