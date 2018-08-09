@@ -1,6 +1,6 @@
 ---
 title: Advocatuur
-description: VOIP voor uw advocatenkantoor
+description: VoIP voor uw advocatenkantoor
 draft: false
 slug: advocatuur
 hero:
