@@ -1,5 +1,6 @@
 ---
 title: Tandartspraktijk
+description: VoIP voor uw tandartspraktijk.
 draft: false
 slug: tandartspraktijk
 hero:
