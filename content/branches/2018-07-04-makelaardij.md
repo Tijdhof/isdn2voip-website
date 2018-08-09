@@ -1,5 +1,6 @@
 ---
 title: Makelaardij
+description: VoIP voor uw Makelaardij
 draft: false
 slug: makelaardij
 hero:
