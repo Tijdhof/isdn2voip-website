@@ -1,5 +1,6 @@
 ---
 title: Stap over van ISDN op VoIP
+description: 'ISDN stopt: VoIP is het alternatief. ISDN2VoIP regelt een naadloze overstap.'
 layout: index
 type: page
 hero:
