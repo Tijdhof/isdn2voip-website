@@ -1,5 +1,8 @@
 ---
 title: Behoud ISDN apparatuur
+description: >-
+  Maak de overstap van ISDN naar VoIP met behoud van uw huidige
+  ISDN-apparatuur. 
 draft: false
 slug: behoud-isdn-apparatuur
 hero:
