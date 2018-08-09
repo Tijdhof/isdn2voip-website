@@ -1,5 +1,6 @@
 ---
 title: Onderwijs
+description: VoIP voor het onderwijs
 draft: false
 slug: onderwijs
 hero:
