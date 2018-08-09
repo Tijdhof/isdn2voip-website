@@ -1,5 +1,6 @@
 ---
 title: Assurantiekantoor
+description: VoIP voor uw assurantiekantoor.
 draft: true
 slug: assurantiekantoor
 hero:
