@@ -1,5 +1,8 @@
 ---
 title: Hosted VoIP
+description: >-
+  Maak de overstap van het ouderwetse ISDN naar de moderne Hosted VoIP
+  oplossing. Uw telefonie in de cloud.
 draft: false
 slug: hosted-voip
 hero:
