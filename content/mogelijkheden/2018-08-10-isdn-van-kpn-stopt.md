@@ -3,7 +3,7 @@ title: ISDN van KPN stopt!
 description: >-
   ISDN van KPN stopt per 1 september 2019. Stap nu over op VoIP. ISDN2VoIP
   adviseert & begeleidt u bij de overstap.
-draft: true
+draft: false
 slug: isdn-van-kpn-stopt
 hero:
   subtitle: Hosted **VoIP** is de toekomst!
