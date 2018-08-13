@@ -6,6 +6,8 @@ description: >-
 draft: false
 slug: isdn-van-kpn-stopt
 hero:
+  image:
+    large: /images/1.png
   subtitle: Hosted **VoIP** is de toekomst!
   title: ISDN van KPN stopt
 contentImage: /images/office-image.png
