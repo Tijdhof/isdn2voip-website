@@ -8,8 +8,8 @@ slug: isdn-van-xs4all-stopt
 hero:
   image:
     large: /images/2-xs4all.png
-  subtitle: Hosted VoIP is de toekomst!
-  title: ISDN van KPN stopt
+  subtitle: VoIP is de toekomst!
+  title: ISDN van XS4ALL stopt
 contentImage: /images/office-image.png
 cta:
   content: >-
