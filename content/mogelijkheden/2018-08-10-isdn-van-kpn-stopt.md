@@ -19,9 +19,9 @@ cta:
   image: /images/geinteresseerd.jpg
   title: Geïnteresseerd?
 ---
-# ISDN van KPN stopt...
+# ISDN van KPN stopt.
 
-# en VoIP is het alternatief!
+# VoIP is het alternatief!
 
 Per 1 september 2019 wordt ISDN uitgefaseerd bij KPN. De datum lijkt ver weg, maar een overstap neemt altijd wat tijd in beslag. Begin dus niet te laat met voorbereiden.
 
