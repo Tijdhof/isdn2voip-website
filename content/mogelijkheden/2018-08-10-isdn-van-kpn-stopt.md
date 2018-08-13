@@ -19,7 +19,7 @@ cta:
 ---
 # ISDN van KPN stopt...
 
-# ... en VoIP is het alternatief!
+# en VoIP is het alternatief!
 
 Per 1 september 2019 wordt ISDN uitgefaseerd bij KPN. De datum lijkt ver weg, maar een overstap neemt altijd wat tijd in beslag. Begin dus niet te laat met voorbereiden.
 
@@ -30,7 +30,5 @@ VoIP biedt vele voordelen t.o.v. van VoIP, om enkele te noemen:
 * Vast Mobiel Integratie
 * Flexibel en schaalbaar
 * Modernste telefooncentrale
-
-
 
 Voor u als klant zijn er verschillende mogelijkheden. Zo kunt u er voor kiezen om de volledige overstap te maken naar Hosted VoIP (uw telefooncentrale in de cloud) of d.m.v. een VoIP-Gateway uw huidige ISDN centrale behouden en tegelijk te bellen via VoIP. Wij bespreken graag de mogelijkheden en adviseren u graag in wat voor u de beste optie is.
