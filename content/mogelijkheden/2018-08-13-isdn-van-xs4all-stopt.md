@@ -19,11 +19,11 @@ cta:
   image: /images/geinteresseerd.jpg
   title: Geïnteresseerd?
 ---
-# ISDN van KPN stopt.
+# ISDN van XS4ALL stopt.
 
 # VoIP is het alternatief!
 
-Per 1 september 2019 wordt ISDN uitgefaseerd bij KPN. De datum lijkt ver weg, maar een overstap neemt altijd wat tijd in beslag. Begin dus niet te laat met voorbereiden.
+XS4ALL gaat binnenkort haar ISDN verbindingen uitfaseren en een overstap naar VoIP moet worden gemaakt. Klinkt dit eng? Niet als u het door ISDN2VoIP laat regelen. Wij adviseren & begeleiden u door het gehele proces. Zo blijft u ten alle tijden bereikbaar, maar belt u straks welk over het internet.
 
 VoIP biedt vele voordelen t.o.v. van VoIP, om enkele te noemen:
 
