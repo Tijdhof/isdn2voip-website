@@ -3,7 +3,7 @@ title: ISDN van XS4ALL stopt!
 description: >-
   ISDN van XS4ALL stopt binnenkort. Stap nu over op VoIP. ISDN2VoIP adviseert &
   begeleidt u bij de overstap.
-draft: true
+draft: false
 slug: isdn-van-xs4all-stopt
 hero:
   image:
