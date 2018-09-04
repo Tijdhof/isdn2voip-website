@@ -39,6 +39,7 @@ testimonials:
       title: Al ruim 10 jaar verzorgt CallvoipTelefonie onze telefonie en internet.
     - content: "De belroutes stel je eenvoudig in en omdat je er vanaf de pc op in kunt loggen is het \relk moment aan te passen. Makkelijk om bij vakanties of onverwachte zaken toch bereikbaar te blijven dan wel klanten te informeren."
       from: Booij Makelaardij
+      image: /images/logo-ref-booij.png
       title: De telefonie werkt geweldig!
   title: 'Deze makelaars gingen u voor:'
 ---
