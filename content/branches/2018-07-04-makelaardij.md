@@ -23,8 +23,21 @@ cta:
   title: Wij luisteren naar uw situatie
 testimonials:
   content: ''
-  items: []
-  title: ''
+  items:
+    - content: >-
+        “We zijn samen met elkaar meegegroeid, uiteraard ook met wat hickups
+        maar die zijn altijd naar tevredenheid opgelost. We hebben twee locaties
+        en we gebruiken ook meerdere toestellen. Het maakt niet uit waar we
+        zitten, we kunnen de telefoon altijd aannemen. Met uitbellen maakt het
+        ook niet uit waar we zitten, de gebelde persoon ziet het netnummer van
+        de vestiging die we zelf kiezen. We maken eveneens gebruik van een
+        wachtrij, teksten bij sluitingstijd (die je allemaal automatisch kunt
+        instellen) en je kunt ook speciale teksten inspreken bij feestdagen.
+        Echt heel uitgebreid allemaal.”
+      from: Kern Makelaars
+      image: /images/logo-ref-kern.png
+      title: Al ruim 10 jaar verzorgt CallvoipTelefonie onze telefonie en internet.
+  title: 'Deze makelaars gingen u voor:'
 ---
 ## Situatie
 
