@@ -34,11 +34,11 @@ testimonials:
         wachtrij, teksten bij sluitingstijd (die je allemaal automatisch kunt
         instellen) en je kunt ook speciale teksten inspreken bij feestdagen.
         Inmiddels al ruim 10 jaar tevreden klant.
-      from: Kern Makelaars
+      from: Kern Makelaars - Breda & Tilburg
       image: /images/logo-ref-kern.png
       title: Echt heel uitgebreid allemaal.
     - content: "De belroutes stel je eenvoudig in en omdat je er vanaf de pc op in kunt loggen is het \relk moment aan te passen. Makkelijk om bij vakanties of onverwachte zaken toch bereikbaar te blijven dan wel klanten te informeren."
-      from: Booij Makelaardij
+      from: Booij Makelaardij - Amsterdam
       image: /images/logo-ref-booij.png
       title: De telefonie werkt geweldig!
   title: 'Deze makelaars gingen u voor:'
