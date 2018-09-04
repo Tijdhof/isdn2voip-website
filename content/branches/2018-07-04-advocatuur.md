@@ -38,7 +38,8 @@ testimonials:
       image: /images/logo-ref-verhulst.png
       title: Er wordt meegedacht.
     - content: "Een belangrijk ingrediënt in de (vertrouwens)relatie tussen advocaat en cliënt is persoonlijk contact. Dat betekent dat een goede communicatiebasis belangrijk is: een betrouwbare, veelzijdige en flexibele telefoondienst die naadloos meebeweegt met onze dagelijkse praktijk.\r\n\nBij CallvoipTelefonie heeft ons kantoor deze basis gevonden. Al jaren zijn wij naar volle tevredenheid klant met onze zakelijk telefonie en de bijbehorende netwerk- en telefonieapparatuur. Ons telefoonnummer rinkelt op de gewenste locaties, dit kunnen we zelf gemakkelijk instellen. We maken gebruik van meldteksten en voicemail en de telefonische vergaderoplossing van CallvoipTelefonie. Korte lijnen en snel schakelen zijn een sterk punt van CallvoipTelefonie. Vragen en wensen worden snel en doeltreffend beantwoord. Advies wordt toegespitst op de behoefte en vooringesteld geleverd. Over telefonie hoeven wij ons in ieder geval niet druk te maken met de diensten van CallvoipTelefonie."
-      from: Van Heest Bodewes Pensioenrechtadvocatuur - Assen
+      from: Van Heest Bodewes Pensioenrechtadvocatuur - Haarlem & Assen
+      image: /images/logo-ref-bodewes.png
       title: Korte lijnen en snel schakelen zijn een sterk punt
   title: 'Deze advocaten gingen u voor:'
 ---
