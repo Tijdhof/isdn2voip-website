@@ -33,10 +33,10 @@ testimonials:
         vestiging die we zelf kiezen. We maken eveneens gebruik van een
         wachtrij, teksten bij sluitingstijd (die je allemaal automatisch kunt
         instellen) en je kunt ook speciale teksten inspreken bij feestdagen.
-        Echt heel uitgebreid allemaal.
+        Inmiddels al ruim 10 jaar tevreden klant.
       from: Kern Makelaars
       image: /images/logo-ref-kern.png
-      title: Al ruim 10 jaar verzorgt CallvoipTelefonie onze telefonie en internet.
+      title: Echt heel uitgebreid allemaal.
     - content: "De belroutes stel je eenvoudig in en omdat je er vanaf de pc op in kunt loggen is het \relk moment aan te passen. Makkelijk om bij vakanties of onverwachte zaken toch bereikbaar te blijven dan wel klanten te informeren."
       from: Booij Makelaardij
       image: /images/logo-ref-booij.png
