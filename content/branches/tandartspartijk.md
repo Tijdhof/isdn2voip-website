@@ -21,8 +21,12 @@ cta:
   title: Wij luisteren naar uw situatie
 testimonials:
   content: ''
-  items: []
-  title: ''
+  items:
+    - content: "Voor ons als tandartspraktijk is het heel belangrijk dat wij permanent een goede telefoonverbinding hebben en dat er een snelle service is wanneer nodig en dat biedt Callvoip.\r\n\nVia de Simmpl telefooncentrale kunnen wij alles heel gemakkelijk en snel aanpassen. Zo hebben wij altijd een wachtrij en een voicemail die past bij ons bedrijf en kan iedere medewerker iets zelf aanpassen als het nodig is.\r\n\nWij bevelen CallvoipTelefonie zeker aan, want ze hebben een goede service, zijn behulpzaam en denken altijd met je mee!"
+      from: Tandartspraktijk de Wolvenstraat - Amsterdam
+      image: /images/logo-ref-wolfstraat.png
+      title: Een wachtrij en een voicemail die past bij ons bedrijf
+  title: 'Deze tandartspraktijken gingen u voor: '
 ---
 ## Situatie
 
