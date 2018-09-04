@@ -25,18 +25,21 @@ testimonials:
   content: ''
   items:
     - content: >-
-        “We zijn samen met elkaar meegegroeid, uiteraard ook met wat hickups
-        maar die zijn altijd naar tevredenheid opgelost. We hebben twee locaties
-        en we gebruiken ook meerdere toestellen. Het maakt niet uit waar we
-        zitten, we kunnen de telefoon altijd aannemen. Met uitbellen maakt het
-        ook niet uit waar we zitten, de gebelde persoon ziet het netnummer van
-        de vestiging die we zelf kiezen. We maken eveneens gebruik van een
+        We zijn samen met elkaar meegegroeid, uiteraard ook met wat hickups maar
+        die zijn altijd naar tevredenheid opgelost. We hebben twee locaties en
+        we gebruiken ook meerdere toestellen. Het maakt niet uit waar we zitten,
+        we kunnen de telefoon altijd aannemen. Met uitbellen maakt het ook niet
+        uit waar we zitten, de gebelde persoon ziet het netnummer van de
+        vestiging die we zelf kiezen. We maken eveneens gebruik van een
         wachtrij, teksten bij sluitingstijd (die je allemaal automatisch kunt
         instellen) en je kunt ook speciale teksten inspreken bij feestdagen.
-        Echt heel uitgebreid allemaal.”
+        Echt heel uitgebreid allemaal.
       from: Kern Makelaars
       image: /images/logo-ref-kern.png
       title: Al ruim 10 jaar verzorgt CallvoipTelefonie onze telefonie en internet.
+    - content: "De belroutes stel je eenvoudig in en omdat je er vanaf de pc op in kunt loggen is het \relk moment aan te passen. Makkelijk om bij vakanties of onverwachte zaken toch bereikbaar te blijven dan wel klanten te informeren."
+      from: Booij Makelaardij
+      title: De telefonie werkt geweldig!
   title: 'Deze makelaars gingen u voor:'
 ---
 ## Situatie
