@@ -7,19 +7,7 @@ hero:
   content: >-
     VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap
     daarom vandaag nog over van ISDN op deze moderne en kostenbesparende
-    oplossing voor uw telefonie. <html>
-
-    <body>
-
-
-    <p>Bekijk onze <a
-    href="https://www.isdn2voip.nl/mogelijkheden/hosted-voip/">'Hosted
-    VoIP'</a>- of één van onze andere oplossingen!</p>
-
-
-    </body>
-
-    </html>
+    oplossing voor uw telefonie!
   image:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
