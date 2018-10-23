@@ -7,7 +7,7 @@ hero:
   content: >-
     VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap
     daarom vandaag nog over van ISDN op deze moderne en kostenbesparende
-    oplossing voor uw telefonie!
+    <a href="/mogelijkheden/hosted-voip/">oplossing</a> voor uw telefonie!
   image:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
@@ -59,7 +59,7 @@ mogelijkheden:
   content: >-
     We willen het eigenlijk niet te lastig maken, maar er zijn drie
     mogelijkheden als u overstapt van ISDN naar VoIP. Deze drie mogelijkheden
-    zijn hieronder beschreven. 
+    zijn hieronder beschreven.
 
     Geen idee wat voor u het beste is? Wij adviseren u graag!
   items:

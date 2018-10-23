@@ -19,7 +19,7 @@
                         </h1>
                         {{ end }}
                         {{ if .Params.hero.title }}
-                        <p class="lead font-weight-normal mb-3">{{ .Params.hero.subtitle }}</p>
+                        <p class="lead font-weight-normal mb-3">{{ .Params.hero.subtitle | markdownify }}</p>
                         {{ end }}
                     </div>
                 </div>
