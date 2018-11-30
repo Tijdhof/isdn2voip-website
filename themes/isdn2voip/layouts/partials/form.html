@@ -11,20 +11,9 @@
     <p class="hidden">
         <input type="text" class="form-control" id="pagina" name="pagina" aria-describedby="pagina" value="{{ .Permalink }}" placeholder="">
     </p>
-    <div class="form-group">
-        <label for="email">E-mailadres*</label>
-        <input type="email" class="form-control" id="email" name="emailadres" aria-describedby="emailHelp" placeholder="" required>
-    </div>
-    <div class="form-group">
+    <div class="form-group" style="margin-bottom: 32px;">
         <label for="phone">Telefoon</label>
         <input type="text" class="form-control" id="phone" name="telefoon" aria-describedby="phoneHelp" placeholder="">
     </div>
-    <div class="form-group form-check">
-        <input type="checkbox" class="form-check-input" name="privacyakkoord" id="akkoord" required>
-        <label class="form-check-label" for="akkoord">Met versturen van dit formulier ga ik akkoord met de
-            <a href="/privacy-policy">Privacy Policy</a>
-        </label>
-    </div>
-    <div class="mb-2" data-netlify-recaptcha></div>
     <button type="submit" class="btn btn-primary">Advies aanvragen</button>
 </form>
