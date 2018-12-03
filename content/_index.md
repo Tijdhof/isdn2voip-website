@@ -6,13 +6,13 @@ type: page
 hero:
   content: >-
     VoIP (Voice over IP), oftewel bellen via internet, heeft de toekomst. Stap
-    daarom vandaag nog over van ISDN op deze moderne en kostenbesparende
-    <a href="/mogelijkheden/hosted-voip/">oplossing</a> voor uw telefonie!
+    daarom vandaag nog over van ISDN op deze moderne en kostenbesparende <a
+    href="/mogelijkheden/hosted-voip/">oplossing</a> voor uw telefonie!
   image:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
-  subtitle: Laat u vrijblijvend adviseren!
-  title: Van ISDN naar **VoIP**
+  subtitle: Maak de overstap naar **VoIP**!
+  title: ISDN **Stopt**!
 usps:
   items:
     - content: >-
@@ -54,7 +54,7 @@ usps:
         Zo heeft u **één aanspreekpunt**.
       icon: fa-building
       title: Kennis van internetverbindingen
-  title: 'Een overstap kan ook simpel zijn. Wij bieden u:'
+  title: 'Een overstap is simpel!. Wij bieden u:'
 mogelijkheden:
   content: >-
     We willen het eigenlijk niet te lastig maken, maar er zijn drie
