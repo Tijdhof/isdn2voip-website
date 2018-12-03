@@ -12,7 +12,7 @@ hero:
     large: /images/hero.jpg
     small: /images/hero-small.jpg
   subtitle: Maak de overstap naar **VoIP**!
-  title: ISDN **Stopt**!
+  title: ISDN **stopt**!
 usps:
   items:
     - content: >-
@@ -54,7 +54,7 @@ usps:
         Zo heeft u **één aanspreekpunt**.
       icon: fa-building
       title: Kennis van internetverbindingen
-  title: 'Een overstap is simpel!. Wij bieden u:'
+  title: 'Een overstap is simpel! Wij bieden u:'
 mogelijkheden:
   content: >-
     We willen het eigenlijk niet te lastig maken, maar er zijn drie
